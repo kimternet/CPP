@@ -50,7 +50,8 @@ int main() {
     std::string address = "123 seoul";
 
     std::cout << "Hello " << name << '\n';
-    std::cout << "You are " << age << "years old";
+    std::cout << "You are " << age << "years old" <<'\n';
+    std::cout << "i like " << food ;
 
 
 }
