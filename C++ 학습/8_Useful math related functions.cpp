@@ -23,4 +23,6 @@ int main() {
     std::cout<< r << '\n';
     std::cout<< f << '\n';
 
+    return 0;
+
 }
